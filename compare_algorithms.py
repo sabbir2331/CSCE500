@@ -1,5 +1,5 @@
 """
-CSCE 500 – Algorithm Design & Analysis – Spring 2026
+CSCE 500 – Design & Analysis of Algorithms – Spring 2026
 compare_algorithms.py
 
 Runs ALL THREE algorithms on the same inputs and prints:
@@ -371,7 +371,7 @@ def run_performance_benchmark():
 if __name__ == "__main__":
     print()
     print("  CSCE 500  ·  Closest Pair of Points  ·  Algorithm Comparison")
-    print("  Sabbir Rahman  ·  Louisiana State University  ·  Spring 2026")
+    print("  Sabbir Rahman  · University of Louisiana at Lafayette ·  Spring 2026")
     print()
 
     run_correctness_tests()
