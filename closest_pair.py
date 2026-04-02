@@ -1,11 +1,11 @@
 """
-CSCE 500 – Algorithm Design & Analysis – Spring 2026
+CSCE 500 – Design & Analysis of Algorithms – Spring 2026
 Project 3: Closest Pair of Points (Manhattan Distance)
 
 Algorithm : O(n log n) Sweep Line via Chebyshev Transform
             + O(n log² n) Divide & Conquer fallback
 
-Author    : Sabbir Rahman  (Louisiana State University)
+Author    : Sabbir Rahman 
 """
 
 import sys
