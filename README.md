@@ -1,7 +1,7 @@
 # Closest Pair of Points — Manhattan Distance
 
-**CSCE 500 – Algorithm Design & Analysis, Spring 2026**  
-Louisiana State University  
+**CSCE 500 – Design & Analysis of Algorithms, Spring 2026**  
+University of Louisiana at Lafayette
 Author: Sabbir Rahman
 
 ---
